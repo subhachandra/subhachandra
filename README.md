@@ -13,15 +13,12 @@
 
 ### Where did I work earlier:question::woman_technologist:
 <code>* [Sonata Software](https://www.sonata-software.com/) [Java Developer]</code>  
-<code>* [Open Source Code](https://opensourcecode.tech/) [Content Writer]</code>      
-<code>* [Uplift Project](https://www.girlscript.tech/programs/uplift/index.html) [Mentor]</code>    
-<code>* [GirlScript Foundation](https://www.girlscript.tech/) [Chapter Lead]</code>     
-<code>* [Girlscript Summer of Code](https://www.gssoc.tech/) [Mentee]</code>           
-<code>* [Central Coalfields Limited](http://www.centralcoalfields.in/ind/) [Systems Intern]</code>      
-<code>* [XLRI Jamshedpur](https://www.xlri.ac.in/) [Summer Research Intern]</code>    
+<code>* [Capgemini](https://www.capgemini.com/in-en/) [Software Engineer]</code>      
+<code>* [Teamware Solutions](https://www.teamwaresolutions.net) [Software Engineer]</code>    
+<code>* [Honeywell Technologies](https://www.honeywell.com/en-us) [Software Engineering Associate]</code>      
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["Javascript" , "Microservices" , "Spring"];</code>
+<code>var topics = ["Java" , "Microservices" , "Spring" , "Javascript" , "Hibernate"];</code>
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/jsubhachandra/100DaysOfCode)</code>:hourglass:     
@@ -43,6 +40,6 @@
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:jsubhachandra@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/jsubhachandra)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/chandrika-deb/)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/jsubhachandra)</code>  
 :star: <code>[Medium](https://medium.com/@jsubhachandra)</code>  
 :star: <code>[CodePen](https://codepen.io/jsubhachandra)</code>  
