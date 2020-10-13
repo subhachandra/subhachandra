@@ -9,10 +9,10 @@
 ### Wanna stalk my website:question::point_right: [Click Here](https://jsubhachandra.github.io/):sparkles:
 
 ### Who am I:question: 
-<code>git commit -m "Hello, I'm a Software Engineering Associate at [Amdocs](https://www.amdocs.com/)"</code>
+<code>git commit -m "Hello, I'm a Software Engineer at [QuEST Global](https://www.quest-global.com/)"</code>
 
 ### Where did I work earlier:question::woman_technologist:
-<code>* [iSmile Technologies](https://www.ismiletechnologies.com/) [Technical Writer]</code>  
+<code>* [Sonata Software](https://www.sonata-software.com/) [Java Developer]</code>  
 <code>* [Open Source Code](https://opensourcecode.tech/) [Content Writer]</code>      
 <code>* [Uplift Project](https://www.girlscript.tech/programs/uplift/index.html) [Mentor]</code>    
 <code>* [GirlScript Foundation](https://www.girlscript.tech/) [Chapter Lead]</code>     
