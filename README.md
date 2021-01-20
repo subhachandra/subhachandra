@@ -11,7 +11,7 @@
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Software Engineer at [QuEST Global](https://www.quest-global.com/)"</code>
 
-### Where did I work earlier:question::woman_technologist:
+### Where did I work earlier:question::man_technologist:
 <code>* [Sonata Software](https://www.sonata-software.com/) [Java Developer]</code>  
 <code>* [Capgemini](https://www.capgemini.com/in-en/) [Software Engineer]</code>      
 <code>* [Teamware Solutions](https://www.teamwaresolutions.net) [Software Engineer]</code>    
