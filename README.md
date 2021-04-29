@@ -40,7 +40,7 @@
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Java Developer. 
 - 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/c/jsubhachandra)
-- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [giving talks](https://crushingcode.nisrulz.com/talks/), [writing blog posts](https://crushingcode.nisrulz.com/archive/), [co-authoring/reviewing books](https://crushingcode.nisrulz.com/showcase/books/), [building Android libraries](https://github.com/nisrulz/nisrulz.github.io#open-source-contributions), etc. whenever I can.
+- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [giving talks](https://crushingcode.nisrulz.com/talks/), [writing blog posts](https://crushingcode.nisrulz.com/archive/)(https://github.com/nisrulz/nisrulz.github.io#open-source-contributions), etc. whenever I can.
 - 🌱  &nbsp;I’m currently (trying to) learn Rust lang
 - 💬  &nbsp;I dabble in Java, Spring, REST API, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 - 📝  &nbsp;I often blog about random tips/tricks and (mostly) Android [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/)
