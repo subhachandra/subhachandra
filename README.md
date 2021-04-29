@@ -38,7 +38,7 @@
 :star: <code>[CodePen](https://codepen.io/jsubhachandra)</code>  
 
 
-- 👨🏻‍💻  &nbsp;I’m primarily a Java Developer. 
+- 👨🏻‍💻  &nbsp;My primary coding language: Java, Spring Boot, Micro Services.
 - 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/c/jsubhachandra)
 - 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [dev talks](https://dev.to/jsubhachandra), [writing blog posts](https://jsubhachadnra.netlify.app/).
 - 🌱  &nbsp;I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
