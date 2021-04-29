@@ -40,10 +40,10 @@
 
 - 👨🏻‍💻  &nbsp;I’m primarily a Java Developer. 
 - 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/c/jsubhachandra)
-- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [giving talks](https://crushingcode.nisrulz.com/talks/), [writing blog posts](https://crushingcode.nisrulz.com/archive/)(https://github.com/nisrulz/nisrulz.github.io#open-source-contributions), etc. whenever I can.
-- 🌱  &nbsp;I’m currently (trying to) learn Rust lang
-- 💬  &nbsp;I dabble in Java, Spring, REST API, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
-- 📝  &nbsp;I often blog about random tips/tricks and (mostly) Android [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/)
+- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [dev talks](https://dev.to/jsubhachandra), [writing blog posts](https://jsubhachadnra.netlify.app/).
+- 🌱  &nbsp;I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
+- 💬  &nbsp;I use Java, Spring, REST API, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
+- 📝  &nbsp;I often blog about random tips/tricks 
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹&nbsp;retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ &nbsp;Possibly this is why I also talk a lot 🤔
 - 📫  &nbsp;Reach me [at] [jsubhachandra.com](https://www.jsubhachandra.netlify.app)
 - ☕️ &nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/jsubhachandra) or [sponsoring me on GitHub](https://github.com/sponsors/jsubhachandra)&nbsp;🤗 
