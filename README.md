@@ -1,4 +1,4 @@
- ## Hi there, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> this is Subha Chandra
+ ## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, this is Subha Chandra
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jsubhachandra alt=jsubhachandra/></p>
 
 ### Who am I:question: 
