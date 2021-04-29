@@ -5,9 +5,6 @@
 ## :rainbow: Hello :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jsubhachandra alt=jsubhachandra/></p>
 
-
-### Wanna stalk my website:question::point_right: [Click Here](https://jsubhachandra.github.io/):sparkles:
-
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Software Engineer at [QuEST Global](https://www.quest-global.com/)"</code>
 
