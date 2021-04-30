@@ -1,5 +1,4 @@
 ## Hi there, :eyes: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> this is Subha Chandra
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=jsubhachandra alt=jsubhachandra/></p>
 
 - 👨🏻‍💻  &nbsp;My primary coding language: Java
 - 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/c/jsubhachandra)
