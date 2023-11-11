@@ -2,8 +2,8 @@
 
 
 - 👨🏻‍💻  &nbsp;My primary coding language: Java
-- 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/c/jsubhachandra)
-- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [dev talks](https://dev.to/jsubhachandra), [writing blog posts](https://jsubhachadnra.netlify.app/).
+- 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/@subha-chandra)
+- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [dev talks](https://dev.to/jsubhachandra), [writing blog posts](https://subhachadnra.github.io/).
 - 🌱  &nbsp;I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting thier programming journey.
 - 💬  &nbsp;I use Java, Spring, REST API, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 - 📝  &nbsp;I often blog about random tips/tricks 
