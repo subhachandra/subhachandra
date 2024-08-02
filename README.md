@@ -1,13 +1,13 @@
 ## Hi there, :eyes: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> this is Subha Chandra
 
 
-- 👨🏻‍💻  &nbsp;My primary coding language: Java
-- 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://jsubhachandra.netlify.com/) & make educational [YouTube Videos](https://www.youtube.com/@subha-chandra)
-- 🤗  &nbsp;I love contributing to the open-source ecosystem and the community by [dev talks](https://dev.to/jsubhachandra), [writing blog posts](https://subhachadnra.github.io/).
+- 👨🏻‍💻  &nbsp;My primary coding language: Java, Spring Boot, Mirco Services, AWS, Kafka, MongoDB.
+- 👨🏻‍🔬  &nbsp;Passionate for learning & exploring new Tech. I write [Tech Blogs](https://subhachandra.medium.com/) & make educational [YouTube Videos](https://www.youtube.com/@subha-chandra)
+- 🤗  &nbsp;I love contributing to the open-source ecosystem and git community.
 - 🌱  &nbsp;I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting thier programming journey.
-- 💬  &nbsp;I use Java, Spring, REST API, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
+- 💬  &nbsp;I use Java, Spring, REST API, UI/UX and spend most of my time automating my life via literally living inside the terminal
 - 📝  &nbsp;I often blog about random tips/tricks 
-- ⚡️  &nbsp;Fun fact about me: I love playing 🕹&nbsp;retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ &nbsp;
+- ⚡️  &nbsp;Fun fact about me: I love playing 🕹&nbsp;retro games and survive on ☕️ instead of energy drinks
 - 📫  &nbsp;Reach me [at] [jsubhachandra.com](https://subhachandra.github.io)
 - ☕️ &nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/jsubhachandra) or [sponsoring me on GitHub](https://github.com/sponsors/jsubhachandra)&nbsp;🤗 
 
@@ -29,8 +29,6 @@
 </p>
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:jsubhachandra@gmail.com)</code>    
-:star: <code>[Twitter](https://twitter.com/jsubhachandra)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/jsubhachandra)</code>  
-:star: <code>[Medium](https://medium.com/@jsubhachandra)</code>  
-:star: <code>[CodePen](https://codepen.io/jsubhachandra)</code>  
+:star: <code>[Mail](mailto:jsubhachandra@gmail.com)</code>     
+:star: <code>[LinkedIn](https://www.linkedin.com/in/jsubhachandra)</code>   
+:star: <code>[WhatsApp](https://wa.me/917975742893)</code>
