@@ -8,7 +8,7 @@
 - 💬  &nbsp;I use Java, Spring, REST API, UI/UX and spend most of my time automating my life via literally living inside the terminal
 - 📝  &nbsp;I often blog about random tips/tricks 
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹&nbsp;retro games and survive on ☕️ instead of energy drinks
-- 📫  &nbsp;Reach me [at] [jsubhachandra.com](https://subhachandra.github.io)
+- 📫  &nbsp;Reach me [at] [subhachandra.com](https://subhachandra.github.io)
 - ☕️ &nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/jsubhachandra) or [sponsoring me on GitHub](https://github.com/sponsors/jsubhachandra)&nbsp;🤗 
 
 ### My Tech Toolbox 🧰
